@@ -12,7 +12,11 @@ This project implements a movie recommender system using Streamlit and Python. I
 ## Instructions to Run:
 
 ## 1.Clone the Repository:
+```bash
+
  git clone <repository-url>
+
+```
 
 ## 2.Install Dependencies:
 pip install -r requirements.txt
