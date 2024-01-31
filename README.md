@@ -23,7 +23,8 @@ streamlit run app.py
 ## 4.Open Browser:
 After running the application, open a web browser and go to the URL provided by Streamlit to access the movie recommender system.
 
-# Usage
+# Usage:
+
 
 
 
