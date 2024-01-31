@@ -15,5 +15,7 @@ This project implements a movie recommender system using Streamlit and Python. I
  git clone <repository-url>
 
 ## 2.Install Dependencies:
+pip install -r requirements.txt
+
 
 
