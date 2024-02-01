@@ -19,11 +19,13 @@ This project implements a movie recommender system using Streamlit and Python. I
 ```
 
 ## 2.Install Dependencies:
+```
 pip install -r requirements.txt
-
+```
 ## 3.Run the Application:
+```
 streamlit run app.py
-
+```
 ## 4.Open Browser:
 After running the application, open a web browser and go to the URL provided by Streamlit to access the movie recommender system.
 
