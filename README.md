@@ -36,9 +36,7 @@ After running the application, open a web browser and go to the URL provided by 
 
 ![app · Streamlit_pages-to-jpg-0001](https://github.com/Harshini-Menta/Movie-Recommender-/assets/132768467/3f7cf11a-091d-4466-bb33-b73153458d11)
 
-
-
-
+![app 1_pages-to-jpg-0001](https://github.com/Harshini-Menta/Movie-Recommender-System/assets/132768467/f1aca50f-e344-4c7d-b4e1-46a6be7d7522)
 
 
 
