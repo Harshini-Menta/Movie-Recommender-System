@@ -13,7 +13,6 @@ This project implements a movie recommender system using Streamlit and Python. I
 
 ## 1.Clone the Repository:
 ```bash
-
  git clone <repository-url>
 
 ```

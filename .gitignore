@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.pdf
+*.jpg
+*.png
+
+# Pickle files (ignore unnecessary ones)
+movies.pkl
+
+# Environment
+.env
+venv/
+.venv/
+
